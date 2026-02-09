@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divya shree</h1>
+<h1 align="center">Hi 👋, I'm Mugunthan</h1>
 <h3 align="center">I am from India</h3>
 
 - 🔭 I’m currently working on **PYTHON PROJECTS**
